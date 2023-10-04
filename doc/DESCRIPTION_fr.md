@@ -1,1 +1,1 @@
-Ceci est une fausse description des fonctionalités de l'app
+Ombi est votre outil convivial de demande de médias, se synchronise automatiquement avec vos serveurs multimédias !
