@@ -7,7 +7,7 @@ Type=simple
 User=__APP__
 Group=__APP__
 WorkingDirectory=__INSTALL_DIR__/
-ExecStart=__INSTALL_DIR__/Ombi --baseurl __PATH__ --storage __DATA_DIR__ --host http://127.0.0.1:__PORT__
+ExecStart=__INSTALL_DIR__/ Ombi --baseurl __PATH__ --storage __DATA_DIR__ --host http://127.0.0.1:__PORT__
 StandardOutput=append:/var/log/__APP__/__APP__.log
 StandardError=inherit
 
