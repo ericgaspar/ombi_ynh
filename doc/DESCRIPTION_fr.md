@@ -1,1 +1,1 @@
-Ombi est votre outil convivial de demande de médias, se synchronise automatiquement avec vos serveurs multimédias !
+Ombi est une application Web auto-hébergée qui donne automatiquement à vos utilisateurs Plex ou Emby partagés la possibilité de demander du contenu par eux-mêmes ! Ombi peut être lié à plusieurs outils DVR d'émissions de télévision et de films pour créer une expérience transparente de bout en bout pour vos utilisateurs.
